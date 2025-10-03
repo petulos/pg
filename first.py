@@ -4,7 +4,7 @@ def sudy_nebo_lichy(cislo):
         print(f"Číslo {cislo} je sudé")
         return f"Číslo {cislo} je sudé"
     else:
-        f"Číslo {cislo} je liché"
+        print(f"Číslo {cislo} je liché")
         return f"Číslo {cislo} je liché"
         
 
