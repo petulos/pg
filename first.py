@@ -2,10 +2,10 @@
 def sudy_nebo_lichy(cislo):
     if cislo % 2 == 0:
 
-        return f"Číslo {cislo} je sude"
+        return f"Číslo {cislo} je sudé"
     else:
 
-        return f"Číslo {cislo} je liche"
+        return f"Číslo {cislo} je liché"
         
 
 
